@@ -1,0 +1,1114 @@
+[
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tiến hoá đa nhiệm giải bài toán ảo hoá chức năng mạng",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Học tăng cường với phương pháp tính toán tiến hóa",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "6"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Giải thuật tiến hóa đa nhiệm trong huấn luyện mạng Nơron",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tối ưu bao phủ đối tượng đảm bảo kết nối và chịu lỗi trong mạng cảm biến không dây",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, ThSKT",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Giải thuật tiến hóa đa nhiệm trong các bài toán tối ưu đa mục tiêu",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Học tăng cường giải bài toán lập lịch sạc cho thiết bị sạc trong mạng cảm biến có thể sạc không dây",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, KSCQ, KSTN, CTTT, CNKH, CN, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tối ưu chi phí quản lý tài nguyên trong hệ thống điện toán sương mù - đám mây",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Lập kế hoạch đường đi cho robot trong kho hàng.",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+    "Số SV": "6"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Giải thuật tiến hóa đa nhiệm giải bài toán tối ưu trên đồ thị",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Học tăng cường giải các bài toán dự báo tài nguyên trong edge computing",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Huỳnh Thị Thanh Bình",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Lập lịch cho drones để cứu trợ hàng trong thiên tai",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, KSCQ, KSTN, CTTT, Viet-Phap, LATS, KSCLC, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Thu Hương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hệ gợi ý thực đơn và công thức nấu ăn lành mạnh",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "HEDSPI",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Thu Hương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hệ thống học vẽ online",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Thu Hương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng hệ thống hỗ trợ công việc tuyển dụng",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "HEDSPI",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Thu Hương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng mạng xã hội cho những người sưu tập đồng hồ cổ",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Thu Hương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng thư viện công thức nấu ăn trực tuyến",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Hồng Phương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Lập trình ứng dụng",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "VB2, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, VLVH, HEDSPI",
+    "Số SV": "30"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Hồng Phương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Gợi ý sản phẩm",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Hồng Phương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Dự đoán nhu cầu sản phẩm",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Hồng Phương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Phân loại sản phẩm",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Hồng Phương",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Khai phá dữ liệu",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "VB2, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, CN, VLVH, HEDSPI",
+    "Số SV": "30"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Customer Data Platform",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng nền tảng dữ liệu tài chính (financial data platform)",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Phân tích dữ liệu lớn",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Nghiên cứu và phát triển các kiến trúc gen AI agent",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng Kỹ Thuật RAG (Retrieval-Augmented Generation) Trong Phân Tích và Tạo Văn Bản",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Time series analysis (python) for financial markets",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng kỹ thuật Graph RAG trong phân tích và tổng hợp thông tin từ dữ liệu tin tức đa nguồn",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Các mô hình phân tích dữ liệu tin tức",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Sinh ảnh meme từ nội dung (sequence to manga image)",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Data visualization for financial market",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tìm hiểu các thành phần Hadoop ecosystem",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng thành phần bộ nhớ cho gen AI agent",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Học sâu trong xử lý ngôn ngữ tự nhiên",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Trần Việt Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tìm hiểu về privacy preserving machine learning và federated learning",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tự do",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng Đồ thị tri thức/Công nghệ ngữ nghĩa trong các bài toán tài chính",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Phương pháp tạo bộ truyện tranh tự động từ video ứng dụng học sâu",
+    "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, CN, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng các hệ thống, ứng dụng trên nền Web",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, Viet-Phap, KSCLC, CN, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng chatbot tư vấn thông tin du lịch thông minh với khả năng quản lý hội thoại",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hệ thống đăng ký nguyện vọng thuê Ký túc xá",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "CNTH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hệ thống quản lý điều hành trong doanh nghiệp tổ chức",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "CNKT, KSCQ, CN, HEDSPI",
+    "Số SV": "1-2"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Một số ứng dụng kết hợp mô hình ngôn ngữ lớn và đồ thị tri thức (knowledge graph)",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, CN, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng trí tuệ nhân tạo (LLM) trong lĩnh vực chứng khoán",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng các phương pháp học máy, học sâu trong phát hiện tự động tri thức về chuyên gia",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, KSCLC, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng đồ thị tri thức từ dữ liệu văn bản/dữ liệu cấu trúc sử dụng AI và các công nghệ mới",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, CN, ThSKT, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hệ khuyến nghị thời gian thực ứng dụng Graph Databases",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "KSCQ, KSTN, CTTT, CNKH, Viet-Phap, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Nền tảng tư vấn trong lĩnh vực tài chính, chứng khoán",
+    "Loại đề tài": "ĐATN, TTTN",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Nền tảng tổng hợp, xử lý dữ liệu thông minh với công nghệ Semantic/Smart Tourism Case Study",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Cao Tuấn Dũng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng di động tìm kiếm người lái xe hộ",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CNKT, CNTH, KSCQ",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Trịnh Thành Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Phát triển ứng dụng tương tác trên Metaverse",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Trịnh Thành Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tạo địa hình không giới hạn",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Trịnh Thành Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Mô phỏng hành vi con người trong giao thông",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Trịnh Thành Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng ứng dụng trò chơi, mô phỏng",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Trịnh Thành Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng Virtual Reality",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Trịnh Thành Trung",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Xây dựng thư viện trí tuệ nhân tạo cho nhân vật trong trò chơi",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng hệ thống lập trình online CodeRunner",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển hệ thống mô phỏng tín hiệu định vị vệ tinh dựa trên công nghệ SDR",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Hệ thống khuếch đại âm thanh",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng hệ thống quản lý quy trình công việc",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển hệ thống quản lý ra vào dựa trên nền tảng IOT",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng hệ thống học lập trình online",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển hệ thống có thiết kế sản phẩm",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng phần mềm mô phỏng mạch điện sử dụng C#",
+    "Loại đề tài": "ĐATN, TTTN",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng hệ thống IoT giám sát chất lượng tín hiệu GNSS sử dụng các mô hình học máy",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển hệ thống giám sát tình trạng can thiệp tín hiệu định vị thời gian thực",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng hệ thống phân loại sản phẩm dựa trên IoT sử dụng các mô hình học máy",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển hệ thống phân loại nhiễu sử dụng các mô hình học máy",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Đình Thuận",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển hệ thống định vị mặt đất",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Fi-Mi: Hệ thống di động quan trắc và dự đoán chất lượng không khí ứng dụng trí tuệ nhân tạo (fi-mi.vn)",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tối ưu phân phối xe đạp và xe điện tại các thành phố lớn trên thế giới",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Ứng dụng học máy/ học sâu",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "6"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Tối ưu lập lịch trong các mạng tự trị",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Lý thuyết mã hoá trong sửa lỗi ngôn ngữ tự nhiên",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Quản lý và Tối ưu các qui trình công nghệ",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Applied NLP in Health Text Data",
+    "Loại đề tài": "TT, ĐATN, TTTN",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Đỗ Phan Thuận",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Phương pháp thuật toán, tổ hợp và đồ thị trên một số cấu trúc rời rạc",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Tống Văn Vạn",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng giải pháp quản lí mạng trong mạng thế hệ mới",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Tống Văn Vạn",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát hiện lỗ hổng trong smart contract của Blockchain sử dụng bytecode",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Tống Văn Vạn",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát hiện lỗ hổng trong smart contract của Blockchain sử dụng mã nguồn",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Tống Văn Vạn",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển giải pháp xác định mức độ đạo code sử dụng mô hình ngôn ngữ lớn",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, VLVH, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Tống Văn Vạn",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển giải pháp hỗ trợ sửa lỗi tự động trong mã nguồn sử dụng mô hình ngôn ngữ lớn.",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, CNKT, KSCQ, SIE, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Tống Văn Vạn",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Nghiên cứu và triển khai các giải pháp mạng sử dụng thuật toán Transfer Learning",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNTH, IPE, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Tống Văn Vạn",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phân loại lưu lượng mạng mã hóa cho các nhà mạng",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Trần Văn Đặng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Bidirectional Programming in Databases",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Trần Văn Đặng",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Data Processing and Analysis",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "KSCQ, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Trịnh Anh Phúc",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Phát hiện và đánh dấu các vị trí bất thường của sản phẩm thông qua hình ảnh",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "KSCQ",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Trịnh Anh Phúc",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Nghiên cứu, tìm hiểu các phương pháp giải pháp cho bài toán tài chính",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "KSCQ",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Trịnh Anh Phúc",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Nghiên cứu, tìm hiểu các mô hình dự đoán chuỗi thời gian",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "KSCQ",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Nghiên cứu mô hình đánh giá chất lượng hình ảnh",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Phát triển module/ứng dụng giám sát thi cử dựa trên Open edX",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Nghiên cứu mô hình nhận dạng chữ viết tay/ chữ cái trên văn bản",
+    "Loại đề tài": "ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Nghiên cứu mô hình đánh giá chất lượng ảnh",
+    "Loại đề tài": "ĐAMH",
+    "Hệ": "CTTT",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Nghiên cứu ứng dụng các bài toán học máy/thị giác máy tính trong thiết bị biên (edge device)",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Ứng dụng học máy (machine learning) trong các vấn đề thực tế",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Ứng dụng kết hợp học máy (machine learning) và thị giác máy tính (computer vision)",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Ứng dụng thị giác máy tính trong bài toán giám sát thi cử",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Đặng Tuấn Linh",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Nghiên cứu các mô hình lightweight trong học máy",
+    "Loại đề tài": "ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hướng đề tài cho LV thạc sĩ về Xây dựng các hệ mờ ứng dụng",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, LATS, ThSKT",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Mạng đồng tác giả nghiên cứu khoa học",
+    "Loại đề tài": "ĐATN, SV NCKH",
+    "Hệ": "KSCQ, CTTT, ThSKT, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hướng đề tài cho ĐATN kỹ sư, cử nhân (Các bài toán đặt ra trong thực tiễn, xây dựng các hệ thống thông tin cài đặt thêm các chức năng xử lý, trợ giúp người sử dụng)",
+    "Loại đề tài": "ĐATN",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "6"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hướng đề tài cho LV thạc sĩ về Các phương pháp trợ giúp ra quyết định và ứng dụng",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, LATS, ThSKT",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Các phương pháp phân lớp, phân cụm, phân cụm bán giám sát",
+    "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, CN, ThSKT, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hướng đề tài cho LV thạc sĩ về Các phương pháp phân tích thông tin mạng đồng tác giả bài báo khoa học",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, LATS, ThSKT",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hướng đề tài cho ĐATN kỹ sư, cử nhân (Các ứng dụng có áp dụng dẫn xuất thông tin dựa trên cơ sở tri thức và suy luận xấp xỉ)",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hướng đề tài cho ĐATN kỹ sư, cử nhân (Các đề tài phù hợp theo nguyện vọng của sinh viên, do sinh viên tự đề xuất)",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Logic mờ và suy luận xấp xỉ",
+    "Loại đề tài": "ĐATN, SV NCKH",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, CNKH, LATS, KSCLC, ThSKT, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hướng đề tài cho GR Việt Nhật, ICT (Information systems)",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "8"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Hệ thống thông tin về học tập",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "ThSKH, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "4"
+  },
+  {
+    "Tên giảng viên": "Trần Đình Khang",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Các đề tài do sinh viên đề xuất",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, KSCLC, CN, HEDSPI",
+    "Số SV": "8"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Thanh Nga",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Đề tài thuộc nhóm ứng dụng web",
+    "Loại đề tài": "ĐATN, ĐAMH",
+    "Hệ": "CNTH, KSCQ, SIE, CTTT, CNKH, Viet-Phap, CN, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Video analysis: human tracking & behavior analysis",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Semantic Image Segmentation on Medical images",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Thích ứng miền cho bài toán phân vùng ngữ nghĩa",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Text detection and recognition",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Human action recognition with multi-view, multi-modality",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Video analysis: Anomaly detection",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Video summarization - Tóm lược video",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, CNKH, Viet-Phap, LATS, KSCLC, CN, ThSKT, VLVH, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Object classification / retrieval",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Gesture recognition",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Nguyễn Thị Oanh",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Other applications",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Phạm Huy Hoàng",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Chuyển đổi IPv4 sang IPv6",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Phạm Huy Hoàng",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Mạng thế hệ mới SDN và thử nghiệm multicast",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Phạm Huy Hoàng",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng các module Web hỗ trợ học online với XBlock",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "3"
+  },
+  {
+    "Tên giảng viên": "Phạm Huy Hoàng",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Load balancing cho hệ thống MOOC",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH",
+    "Hệ": "Không xác định",
+    "Số SV": "2"
+  },
+  {
+    "Tên giảng viên": "Phạm Huy Hoàng",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Switching layer 3 tích hợp SDN để đảm bảo băng thông video streaming theo nhu cầu",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Phạm Huy Hoàng",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Xây dựng chương trình quản trị mạng SDN",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "Không xác định",
+    "Số SV": "1"
+  },
+  {
+    "Tên giảng viên": "Trịnh Văn Chiến",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Ứng dụng lý thuyết tối ưu hóa cho truyền thông và mạng",
+    "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+    "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trịnh Văn Chiến",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Ứng dụng khoa học dữ liệu cho truyền thông và mạng",
+    "Loại đề tài": "ĐATN, SV NCKH",
+    "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trịnh Văn Chiến",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Ứng dụng trí tuệ nhân tạo, xử lý tín hiệu và cơ sở dữ liệu cho các thiết bị IoT",
+    "Loại đề tài": "TT, ĐATN, TTTN, ĐAMH, SV NCKH",
+    "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, HEDSPI, CN, CNKH, CNTH, KSCQ, IPE, LATS, ThSKH, ThSKT",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Trịnh Văn Chiến",
+    "Khoa": "Khoa Kỹ thuật Máy tính",
+    "Tên đề tài": "Bảo mật trong mạng 5G/6G",
+    "Loại đề tài": "ĐATN, ĐAMH, SV NCKH",
+    "Hệ": "Viet-Phap, KSCLC, KSTN, CTTT, SIE, HEDSPI, CN, CNKH, CNKT, CNTH, KSCQ, VLVH, LATS, ThSKH, ThSKT",
+    "Số SV": "5"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Machine Learning",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Big Data Challenge",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, ThSKT, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Deep Learning and applications",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Softwares with intelligent recommendation, prediction, interaction,…",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, KSCLC, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Methods for analyzing big data",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Recommender systems",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, VB2, CNKT, KSCQ, SIE, KSTN, CTTT, LATS, KSCLC, CN, ThSKT, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Analyzing social networks",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, HEDSPI",
+    "Số SV": "Không xác định"
+  },
+  {
+    "Tên giảng viên": "Thân Quang Khoát",
+    "Khoa": "Khoa Khoa học Máy tính",
+    "Tên đề tài": "Methods for prediction of users’ behaviors, interests, mood, …",
+    "Loại đề tài": "Không xác định",
+    "Hệ": "ThSKH, CNKT, KSCQ, KSTN, CTTT, LATS, KSCLC, ThSKT, HEDSPI",
+    "Số SV": "Không xác định"
+  }
+]
